@@ -2,6 +2,9 @@
 This is a port of Sculptor for the PS Vita.
 The game was originally made by [discardedunion](https://discardedunion.itch.io/) wich you can find the game page [here](https://discardedunion.itch.io/sculptor).
 
+## Note
+This port was made using [Ren'py PS Vita](https://github.com/SonicMastr/renpy-vita) by [Sonic Mastr](https://github.com/SonicMastr).
+
 ## Description
 This game is an adult fantasy game intended for adults, with lots of sexual content.
 Sculptor is a visual novel where the player feminizes their former bully.
