@@ -4,6 +4,7 @@ The game was originally made by [discardedunion](https://discardedunion.itch.io/
 
 ## Note
 This port was made using [Ren'py PS Vita](https://github.com/SonicMastr/renpy-vita) by [Sonic Mastr](https://github.com/SonicMastr).
+The param.sfo is edited with SFO editor (https://archive.org/details/sfoeditor.-7z) to pur parentl control to level 11 (the max)
 
 ## Description
 This game is an adult fantasy game intended for adults, with lots of sexual content.
