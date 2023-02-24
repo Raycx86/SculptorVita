@@ -11,6 +11,8 @@ This game is an adult fantasy game intended for adults, with lots of sexual cont
 Sculptor is a visual novel where the player feminizes their former bully.
 The base scenario can be set up as appeals to the player - both the player character and the target of the game can have their gender identity (pronouns) and biological sex (genitals) changed to suit the preference of the player.
 
-## Changelog 1.0
+## Changelog 1.2
+Put the parental control level to 11 ( the max )
 
-* First Release
+## Changelog 1.1
+* Fix livearea content.
