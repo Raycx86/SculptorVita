@@ -12,7 +12,7 @@ Sculptor is a visual novel where the player feminizes their former bully.
 The base scenario can be set up as appeals to the player - both the player character and the target of the game can have their gender identity (pronouns) and biological sex (genitals) changed to suit the preference of the player.
 
 ## Changelog 1.2
-* Put the parental control level to 11 ( the max )
+* Set the parental control to 11 ( the max )
 
 ## Changelog 1.1
 * Fix livearea content.
